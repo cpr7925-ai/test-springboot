@@ -10,7 +10,7 @@ class ExamApplicationTests {
 
 	@Test
 	void contextLoads() {
-//		fail("故意讓測試失敗");
+		fail("故意讓測試失敗");
 	}
 
 }
